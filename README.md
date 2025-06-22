@@ -1,5 +1,17 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: K.Sai Santhosh Reddy
+
+**INTERN ID**: CT04DF611
+
+**DOMAIN**: PYTHON
+
+**DURATION**: 4 WEEKS (MAY 30TH,2025 TO JUNE 30TH,2025)
+
+**MENTOR**: NEELA SANTOSH.
+
 ## **Overview of the Script**
 
 This Python script implements a basic spam email classification system using **Natural Language Processing (NLP)** and **machine learning** techniques. It leverages the **Naive Bayes algorithm**—specifically, the `MultinomialNB` model from `scikit-learn`—which is effective for text classification tasks such as spam detection.
@@ -183,3 +195,5 @@ You can extend it by:
 * Using `TfidfVectorizer` for better weighting.
 * Adding more data cleaning (e.g., removing URLs).
 * Using other models like Logistic Regression or SVM.
+
+  ## **OUTPUT**
