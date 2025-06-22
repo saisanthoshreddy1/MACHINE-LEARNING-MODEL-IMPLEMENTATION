@@ -197,3 +197,7 @@ You can extend it by:
 * Using other models like Logistic Regression or SVM.
 
   ## **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/912fec2a-56ac-4cb1-9506-adb2ecae21e8)
+
+![Image](https://github.com/user-attachments/assets/fababa7d-ecbd-4af3-a595-b613e38170ef)
